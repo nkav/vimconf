@@ -3,6 +3,9 @@ set ruler
 set nu
 colorscheme murphy
 
+" make backspace work like most other apps
+set backspace=2 
+
 " size of a hard tabstop
 set tabstop=2
 
